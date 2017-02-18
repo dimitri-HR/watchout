@@ -3,3 +3,11 @@
 /* Note: an asteroid image is included in this repo.
 Feel free to use it if you like. */
 
+.board {
+  margin: auto;
+  width: 600px;
+  height: 600px;
+  background-color: #e7e9e7;
+  border: 1px #b3b3b3 solid;
+
+}
