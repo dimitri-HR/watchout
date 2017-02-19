@@ -79,7 +79,8 @@ var player = d3.select('.mouse').style({
   'border-radius': playerData.r * 2 + px
 });
 
-board.on('mousemove', function() {
+// board.on('mousemove', function() {
+d3.select('.board').on('mousemove', function() {
   var loc = d3.mouse(this);
   playerData.x = loc[0];
   playerData.y = loc[1];

@@ -1,5 +1,6 @@
 ### node etc ###
 
+.gitignore
 # Logs
 logs
 *.log
@@ -38,3 +39,5 @@ client/test.html
 client/dima.js
 client/planning.js
 sample.js
+reference.js
+Students/

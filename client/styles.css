@@ -22,7 +22,7 @@ svg {
 .mouse {
   position: absolute;
   background-color: #ff6600;
-  /*cursor: pointer;*/
+  cursor: crosshair;
 }
 
 .enemy {
